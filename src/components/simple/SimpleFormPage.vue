@@ -17,7 +17,7 @@
                         <div class="sqs-block-content">&nbsp;</div>
                     </div>
                 </div>
-                <div class="col sqs-col-6 span-6">
+                <!-- <div class="col sqs-col-6 span-6">
                     <div class="sqs-block-content lb-padding-lg-3">
                         <h2 class="lb-margin-sm-5px lb-title lb-text-white">
                             Learn more about GGU's programs for military veterans and their families.
@@ -26,7 +26,7 @@
                             Make the most of your Post-9/11 G.I. Bill&#xAE;&#xFE0F; benefits.
                         </h5>
                     </div>
-                </div>
+                </div> -->
                 <div class="col sqs-col-4 span-4">
 
                     <div class="form-wrapper lb-simple-form-wrapper">
